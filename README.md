@@ -33,6 +33,7 @@
  
   
      A set is a collection of unique items. A set can be formed from an array from removing all duplicate items.
+     
      [1, 3, 3, 5, 5, 5]
      // original array
      [1, 3, 5]
